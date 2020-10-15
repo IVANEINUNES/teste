@@ -1,5 +1,5 @@
 {
-    "name": "teste",
+    "name": "Par ou Impar",
     "description": "",
     "dependencies": {
         "core": "*",
